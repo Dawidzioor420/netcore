@@ -1,0 +1,84 @@
+﻿@model IEnumerable<projekt.Models.Film>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tytul)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RokProdukcji)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nowy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kategoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cena)
+            </th>
+            <th>Aktorzy</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tytul)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RokProdukcji)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nowy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kategoria.Nazwa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cena.Cenaa)
+            </td>
+            <td>
+                <table class="table">
+                    @foreach (var cg in item.FilmAktors)
+                    {
+
+                        <tr>
+                            <td> @cg.Aktor.ImieNazwisko</td>
+
+                            <td>
+                                @{
+                                    var xkey = new Dictionary<string, string>
+                                                                                    {
+                                {"cid",cg.AktorId.ToString()},
+                                {"gid",cg.FilmId.ToString()}
+
+                            };
+                                }
+                                <a asp-action="Grade" asp-all-route-data="xkey" class="btn btn-dark">Ocena</a>
+                           
+
+                        </tr>
+                    }
+                    
+                </table>
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id"class="btn btn-primary">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

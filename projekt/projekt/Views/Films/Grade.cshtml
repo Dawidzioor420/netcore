@@ -1,0 +1,16 @@
+﻿@model projekt.Models.Film
+<h3>Ocena z filmu: @ViewBag.group.Tytul</h3>
+<form asp-action="Grade">
+    <input type="hidden" name="cid" value="@ViewBag.course.Id" />
+    <input type="hidden" name="gid" value="@ViewBag.group.Id" />
+    <table class="table">
+        @foreach (var s in ViewBag.grades)
+        {
+            <tr>
+                <td>  @s.ImieNazwisko</td>
+                <td><input name="@s.AktorId" class="form-control" value="@s.Ocena" /></td>
+            </tr>
+        }
+    </table>
+    <input type="submit" value="Zapisz" class="btn btn-dark" />
+</form>

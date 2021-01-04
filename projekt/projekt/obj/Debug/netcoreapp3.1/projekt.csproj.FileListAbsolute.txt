@@ -1,0 +1,583 @@
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.exe
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.deps.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.dev.json
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfoInputs.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfo.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.input.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.output.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorCoreGenerate.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Create.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Delete.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Details.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Edit.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Index.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Create.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Delete.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Details.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Edit.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Index.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Create.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Delete.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Details.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Edit.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Index.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Rezysers\Create.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Rezysers\Delete.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Rezysers\Details.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Rezysers\Edit.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Rezysers\Index.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CopyComplete
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.Manifest.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.xml
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.genruntimeconfig.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csprojAssemblyReference.cache
+C:\Users\Arek Wojtyna\source\repos\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Grade.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.exe
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.deps.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.dev.json
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfoInputs.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfo.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.input.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.output.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorCoreGenerate.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Create.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Delete.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Details.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Edit.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Index.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Create.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Delete.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Details.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Edit.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Grade.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Index.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Create.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Delete.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Details.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Edit.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Index.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CopyComplete
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.Manifest.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.xml
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.genruntimeconfig.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Create.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Delete.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Details.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Edit.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Index.cshtml.g.cs
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csprojAssemblyReference.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Mine\Desktop\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.exe
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.deps.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.runtimeconfig.dev.json
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csprojAssemblyReference.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfoInputs.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.AssemblyInfo.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorAssemblyInfo.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.input.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.TagHelpers.output.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorCoreGenerate.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Create.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Delete.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Details.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Edit.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Aktors\Index.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Create.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Delete.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Details.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Edit.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Cenas\Index.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Create.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Delete.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Details.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Edit.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Grade.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Films\Index.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Create.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Delete.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Details.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Edit.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Kategorias\Index.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.Views.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.csproj.CopyComplete
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.Manifest.cache
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\projekt.StaticWebAssets.xml
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.dll
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.pdb
+C:\Users\Mine\Documents\projektasp-master\projekt\projekt\obj\Debug\netcoreapp3.1\projekt.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+aby program sie uruchomil nalezy w menadzerze wpisac update-database po czym poprostu uruchomic aplikacje
